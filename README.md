@@ -1,5 +1,5 @@
 # ProjectFrogger
-A simple replicate of the arcade game Frogger in Assembly language
+A simple replicate of the arcade game Frogger in Assembly language, with 2p compatibility.
 
 # Bitmap Display Configuration:
 # - Unit width in pixels: 4
