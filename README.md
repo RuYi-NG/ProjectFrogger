@@ -7,4 +7,5 @@ A simple replicate of the arcade game Frogger in Assembly language, with 2p comp
 # - Display width in pixels: 256
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
-#
+
+![Frogger](frogger.png)
